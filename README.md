@@ -1,4 +1,4 @@
-# Personcal Schedule Maker
+# Personcal Schedule
 ### This is a personal schedule page using Vue and NodeJs, the main goal is to track individual's daily progress corresponding to their tasks.
 
 The website consists of 
