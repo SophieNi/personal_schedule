@@ -1,5 +1,7 @@
 # personal_schedule
-This is a personal schedule page, it contains
+This is a personal schedule page using Vue and NodeJs, the main goal is to track individual's daily progress corresponding to their tasks.
+
+The website consists of 
 - Create To Do item
 
   users can add item's start date, due date, priority and description
